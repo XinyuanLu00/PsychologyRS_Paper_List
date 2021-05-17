@@ -1,5 +1,5 @@
 # Personality and Emotions in RecSys PaperList
-This is a paper list for Personality and Emotions in Recommendation Systems  The content is listed in the following table.
+This is a paper list for Personality and Emotions in Recommendation Systems. Personality and Emotions are listed in separate tables.
 ## Personality-based RecSys:
 ### Survey:
 **A Survey of Personality-aware *
