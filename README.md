@@ -1,4 +1,4 @@
-# Personality and Emotions in RecSys PaperList
+# Unexpectedness in Recommendation System
 This is a paper list for Personality and Emotions in Recommendation Systems. Personality and Emotions are listed in separate tables.
 ## Personality-based RecSys:
 ### Survey:
@@ -10,6 +10,10 @@ This is a paper list for Personality and Emotions in Recommendation Systems. Per
 ### Dataset:
 LDOS-CoMoDa dataset: 
 **Predicting and Detecting the Relevant Contextual Information in a Movie-Recommender System**
+## Personality based RecSys:
+## Unexpectedness RecSys:
+### Models
+### Evaluation Metrics: 
 
 
 
