@@ -1,4 +1,4 @@
-# Diversity in RecSys and Psychology in RecSys
+# Unexpectedness RecSys and Psychology in RecSys
 This is a paper list for Diversity in RecSys and Psychology in RecSys.
 
 ## Personality based RecSys:
@@ -12,7 +12,7 @@ LDOS-CoMoDa dataset:
 
 
 
-## Diversity in RecSys:
+## Unexpectedness in RecSys:
 ### Survey:
 **Diversity in recommendation systems - A Survey *
 ### Models
