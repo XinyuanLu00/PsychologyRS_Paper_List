@@ -1,5 +1,5 @@
-# Diversity in Recommendation System and personality traits in RecSys
-This is a paper list for Diversity in RecSys and psychology in RecSys.
+# Diversity in RecSys and Psychology in RecSys
+This is a paper list for Diversity in RecSys and Psychology in RecSys.
 
 ## Personality based RecSys:
 ### Survey:
