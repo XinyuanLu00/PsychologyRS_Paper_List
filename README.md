@@ -14,9 +14,9 @@ This is a paper list for Diversity in RecSys and Psychology in RecSys.
 
 ## Unexpectedness in RecSys:
 ### Survey:
-**Diversity in recommendation systems - A Survey *
+*Diversity in recommendation systems - A Survey *
 ### Datasets:
-**Serendipity datasets: 
+*Serendipity datasets: 
 http://www.comp.hkbu.edu.hk/~lichen/download/TaoBao_Serendipity_Dataset.html#ref1
 ### Models
 ### Evaluation Metrics: 
