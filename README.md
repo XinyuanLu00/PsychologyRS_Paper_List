@@ -1,5 +1,5 @@
-# Unexpectedness RecSys and Psychology in RecSys
-This is a paper list for Diversity in RecSys and Psychology in RecSys.
+# Unexpectedness RecSys and Personality based RecSys
+This is a paper list for Personality based RecSys and Unexpectedness in RecSys.
 
 ## Personality based RecSys:
 ### Survey:
@@ -16,10 +16,12 @@ This is a paper list for Diversity in RecSys and Psychology in RecSys.
 ### Survey:
 Diversity in recommendation systems - A Survey
 ### Datasets:
-Serendipity datasets: 
+Serendipity dataset: 
 http://www.comp.hkbu.edu.hk/~lichen/download/TaoBao_Serendipity_Dataset.html#ref1
 ### Models
-### Evaluation Metrics: 
+Improving Recommendation Lists Through Topic Diversification WWW'05
+SPR: Serendipitous Personalized Ranking for Top-N Recommendation WI-IAT'2012
+
 
 
 
