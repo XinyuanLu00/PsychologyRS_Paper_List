@@ -2,9 +2,6 @@
 This is a paper list for Personality based RecSys and Unexpectedness in RecSys.
 
 ## Personality based RecSys:
-### Survey:
-**A Survey of Personality-aware Recommendation Systems **
-**
 **New perspectives on gray sheep behavior in E-commerce recommendations** Journal of Retailing and Consumer Services, 2020. [paper](https://www.aclweb.org/anthology/D19-1172.pdf) [dataset](https://github.com/msra-nlc/MSParS_V2.0)
 ### Dataset:
 **LDOS-CoMoDa dataset: 
@@ -35,37 +32,29 @@ This is a paper list for Personality based RecSys and Unexpectedness in RecSys.
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#survey-papers">1. Personality based RecSys</a></td></tr> 
+<tr><td colspan="2"><a href="#per-survey-papers">1. Personality based RecSys</a></td></tr> 
 <tr><td colspan="2"><a href="#models">1.1 Surveys</a></td></tr>
 <tr><td colspan="2"><a href="#models">1.2 Datasets</a></td></tr>
-<tr><td colspan="2"><a href="#models">1.3 Personality-aware recommendation techniques</a></td></tr>
+<tr><td colspan="2"><a href="#models">1.3 Models</a></td></tr>
 <tr>
     <td>&emsp;<a href="#basic-seq2seq-models">1.3.1 </a></td>
     <td>&ensp;<a href="#encoding-answers">1.3.2 </a></td>
 </tr>
-<tr>
-    <td>&emsp;<a href="#linguistic-features">1.4 Linguistic Features</a></td>
-    <td>&ensp;<a href="#question-specific-rewards">1.5 Question-specific Rewards</a></td>
-</tr>
+<tr><td>&emsp;<a href="#linguistic-features">1.5 Evaluation Metrics</a></td></tr>
     
 <tr><td colspan="2"><a href="#applications">2. Unexpectedness in RecSys </a></td></tr> 
 <tr><td colspan="2"><a href="#models">2.1 Surveys</a></td></tr>
 <tr><td colspan="2"><a href="#models">2.2 Datasets</a></td></tr>
-<tr><td colspan="2"><a href="#models">2.3 Personality-aware recommendation techniques</a></td></tr>
+<tr><td colspan="2"><a href="#models">2.3 Models</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#basic-seq2seq-models">2.3.1 </a></td>
-    <td>&ensp;<a href="#encoding-answers">2.3.2 </a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#linguistic-features">2.4 Linguistic Features</a></td>
-    <td>&ensp;<a href="#question-specific-rewards">2.5 Question-specific Rewards</a></td>
+    <td>&emsp;<a href="#basic-seq2seq-models">2.4 Evaluation Metrics </a></td>
 </tr>
 </table>
 
 ## [Survey papers](#content)
-1. **Recent Advances in Neural Question Generation.** arxiv, 2019. [paper](https://arxiv.org/pdf/1905.08949.pdf)
+1. **A Survey of Personality-aware Recommendation Systems.** arxiv, 2021. [paper](https://arxiv.org/pdf/2101.12153.pdf)
     
-    *Liangming Pan, Wenqiang Lei, Tat-Seng Chua, Min-Yen Kan* 
+    *Dhelim Sahraoui， Aung Nyothir, Bouras Mohammed Amine, Ning Huansheng, Cambria Erik* 
 
 2. **A Systematic Review of Automatic Question Generation for Educational Purposes.** International Journal of Artificial Intelligence in Education, 2020. [paper](https://link.springer.com/content/pdf/10.1007/s40593-019-00186-y.pdf)
     
