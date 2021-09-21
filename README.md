@@ -1,11 +1,4 @@
 
-## Unexpectedness in RecSys:
-### Survey:
-**Diversity in recommendation systems - A Survey
-**Serendipity in Recommender Systems: A Systematic Literature Review, Journal of Computer Science and Technology'21
-### Datasets:
-Serendipity dataset: 
-http://www.comp.hkbu.edu.hk/~lichen/download/TaoBao_Serendipity_Dataset.html#ref1
 ### Models
 Improving Recommendation Lists Through Topic Diversification WWW'05
 SPR: Serendipitous Personalized Ranking for Top-N Recommendation WI-IAT'2012
