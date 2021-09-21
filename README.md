@@ -14,17 +14,17 @@ This is a paper list for Personality based RecSys and Unexpectedness in RecSys.
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#per-survey-papers">1. Personality based RecSys</a></td></tr> 
-<tr><td colspan="2"><a href="#models">1.1 Surveys</a></td></tr>
-<tr><td colspan="2"><a href="#models">1.2 Datasets</a></td></tr>
-<tr><td colspan="2"><a href="#models">1.3 Recommendation Methods</a></td></tr>
+<tr><td colspan="1"><a href="#per-survey-papers">1. Personality based RecSys</a></td></tr> 
+<tr><td colspan="1"><a href="#models">1.1 Surveys</a></td></tr>
+<tr><td colspan="1"><a href="#models">1.2 Datasets</a></td></tr>
+<tr><td colspan="4"><a href="#models">1.3 Recommendation Methods</a></td></tr>
 <tr>
     <td>&emsp;<a href="#basic-seq2seq-models">1.3.1 Personality Neighborhood </a></td>
     <td>&ensp;<a href="#encoding-answers">1.3.2 Matrix Factorization </a></td>
     <td>&ensp;<a href="#encoding-answers">1.3.3 Personality Matching </a></td>
     <td>&ensp;<a href="#encoding-answers">1.3.4 Deep Learning Recommendations </a></td>
 </tr>
-<tr><td>&emsp;<a href="#linguistic-features">1.4 Personality Recommendations in Different Domains</a></td></tr>
+<tr><td colspan="5">&emsp;<a href="#linguistic-features">1.4 Personality Recommendations in Different Domains</a></td></tr>
 <tr>
     <td>&emsp;<a href="#basic-seq2seq-models">1.4.1 Image Recommendation </a></td>
     <td>&ensp;<a href="#encoding-answers">1.4.2 Music Recommendation </a></td>
