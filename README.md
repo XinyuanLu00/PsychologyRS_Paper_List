@@ -41,45 +41,25 @@ This is a paper list for Personality based RecSys and Unexpectedness in RecSys.
 <tr><td colspan="2"><a href="#models">1.3 Personality-aware recommendation techniques</a></td></tr>
 <tr>
     <td>&emsp;<a href="#basic-seq2seq-models">1.3.1 </a></td>
-    <td>&ensp;<a href="#encoding-answers">1.3 </a></td>
+    <td>&ensp;<a href="#encoding-answers">1.3.2 </a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#linguistic-features">2.3 Linguistic Features</a></td>
-    <td>&ensp;<a href="#question-specific-rewards">2.4 Question-specific Rewards</a></td>
+    <td>&emsp;<a href="#linguistic-features">1.4 Linguistic Features</a></td>
+    <td>&ensp;<a href="#question-specific-rewards">1.5 Question-specific Rewards</a></td>
+</tr>
+    
+<tr><td colspan="2"><a href="#applications">2. Unexpectedness in RecSys </a></td></tr> 
+<tr><td colspan="2"><a href="#models">2.1 Surveys</a></td></tr>
+<tr><td colspan="2"><a href="#models">2.2 Datasets</a></td></tr>
+<tr><td colspan="2"><a href="#models">2.3 Personality-aware recommendation techniques</a></td></tr>
+<tr>
+    <td>&emsp;<a href="#basic-seq2seq-models">2.3.1 </a></td>
+    <td>&ensp;<a href="#encoding-answers">2.3.2 </a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#content-selection">2.5 Content Selection</a></td>
-    <td>&ensp;<a href="#question-type-modeling">2.6 Question Type Modeling</a></td>
+    <td>&emsp;<a href="#linguistic-features">2.4 Linguistic Features</a></td>
+    <td>&ensp;<a href="#question-specific-rewards">2.5 Question-specific Rewards</a></td>
 </tr>
-<tr>
-    <td>&emsp;<a href="#encode-wider-contexts">2.7 Encode wider contexts</a></td>
-    <td>&ensp;<a href="#qg-with-pretraining">2.8 QG with pretraining</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#other-directions">2.9 Other Directions</a></td>
-</tr>
-<tr><td colspan="2"><a href="#applications">3 </a></td></tr> 
-<tr>
-    <td>&emsp;<a href="#difficulty-controllable-QG">2.1 Difficulty Controllable QG</a></td>
-    <td>&ensp;<a href="#conversational-QG">2.2 Conversational QG</a></td>
-</tr> 
-<tr>
-    <td>&emsp;<a href="#asking-deep-questions">2.3 Asking Deep Questions</a></td>
-    <td>&ensp;<a href="#combining-QA-and-QG">2.4 Combining QA and QG</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#QG-from-knowledge-graphs">2.5 QG from knowledge graphs</a></td>
-    <td>&ensp;<a href="#visual-question-generation">2.6 Visual Question Generation</a></td>
-</tr> 
-<tr>
-    <td>&emsp;<a href="#distractor-generation">2.7 Distractor Generation</a></td>
-    <td>&ensp;<a href="#cross-lingual-QG">2.8 Cross-lingual QG</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#clarification-question-generation">2.9 Clarification Question Generation</a></td>
-</tr>
-<tr><td colspan="2"><a href="#evaluation">3. Evaluation</a></td></tr>
-<tr><td colspan="2"><a href="#resources">4. Resources</a></td></tr>
 </table>
 
 ## [Survey papers](#content)
