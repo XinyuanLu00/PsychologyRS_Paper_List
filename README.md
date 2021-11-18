@@ -14,8 +14,9 @@ This is a paper list for Personality based RecSys and Unexpectedness in RecSys.
 ## [Content](#content)
 
 <table>
-<tr><td colspan="1"><a href="#per-survey-papers">1. Personality based RecSys</a></td></tr> 
+<tr><td colspan="1"><a href="#per-survey-papers">1. Surveys</a></td></tr> 
 <tr><td colspan="1"><a href="#models">1.1 Surveys</a></td></tr>
+<tr><td colspan="1"><a href="#models">1.1 Personality-based RecSys</a></td></tr>
 <tr><td colspan="1"><a href="#models">1.2 Datasets</a></td></tr>
 <tr><td colspan="4"><a href="#models">1.3 Recommendation Methods</a></td></tr>
 <tr>
