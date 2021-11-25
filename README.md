@@ -23,7 +23,7 @@ This is a paper list for Psychology-based Recommender Systems.
     
     *Dhelim Sahraoui， Aung Nyothir, Bouras Mohammed Amine, Ning Huansheng, Cambria Erik* 
 
-5. **Diversity in recommender systems – A survey.** Knowledge-Based Systems, 2017.[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705117300680)
+5. **Diversity in recommender systems – A survey.** Knowledge-Based Systems, 2017. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705117300680)
 
     *Matevž Kunavera,Tomaž Požrl* 
 
