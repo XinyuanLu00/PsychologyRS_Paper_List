@@ -21,9 +21,9 @@ This is a paper list for Psychology-based Recommender Systems.
 
 4. **A Survey of Personality-aware Recommendation Systems.** arxiv, 2021. [paper](https://arxiv.org/pdf/2101.12153.pdf)
     
-    *Dhelim Sahraoui， Aung Nyothir, Bouras Mohammed Amine, Ning Huansheng, Cambria Erik* 
+    *Dhelim Sahraoui，Aung Nyothir, Bouras Mohammed Amine, Ning Huansheng, Cambria Erik* 
 
-5. **Diversity in recommender systems – A survey.** Knowledge-Based Systems, 2017. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705117300680)
+5. **Diversity in Recommender Systems – A Survey.** Knowledge-Based Systems, 2017. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705117300680)
 
     *Matevž Kunavera,Tomaž Požrl* 
 
