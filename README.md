@@ -45,11 +45,11 @@ This is a paper list for Psychology-based Recommender Systems.
 
     *Bruce Ferwerda, Marko Tkalcic, Markus Schedl*
 
-10. **User Personality and User Satisfaction with Recommender Systems.** Information Systems Frontiers，2018. [paper](https://link.springer.com/article/10.1007/s10796-017-9782-y)
+10. **User Personality and User Satisfaction with Recommender Systems.** Information Systems Frontiers, 2018. [paper](https://link.springer.com/article/10.1007/s10796-017-9782-y)
 
     *Tien T. Nguyen, F. Maxwell Harper, Loren Terveen, Joseph A. Konstan*
 
-11. **Personality, User Preferences and Behavior in Rcommender System.** Information Systems Frontiers， 2018. [paper](https://link.springer.com/article/10.1007/s10796-017-9800-0)
+11. **Personality, User Preferences and Behavior in Rcommender System.** Information Systems Frontiers, 2018. [paper](https://link.springer.com/article/10.1007/s10796-017-9800-0)
 
     *Raghav Pavan Karumur, Tien T. Nguyen, Joseph A. Konstan*
 
@@ -57,7 +57,7 @@ This is a paper list for Psychology-based Recommender Systems.
 
     *Berkovsky Shilomo, Ronnie Taib, Irena Koprinska, Eileen Wang, Yucheng Zeng, Jingjie Li, Sabina Kleitman*
 
-13. **Inferring Students’ Personality from Their Communication Behavior in Web-based Learning Systems.** International Journal of Artificial Intelligence in Education，2019. [paper](https://link.springer.com/article/10.1007/s40593-018-00173-9)
+13. **Inferring Students’ Personality from Their Communication Behavior in Web-based Learning Systems.** International Journal of Artificial Intelligence in Education, 2019. [paper](https://link.springer.com/article/10.1007/s40593-018-00173-9)
 
     *Wen Wu, Li Chen, Qingchang Yang. You Li*
 
