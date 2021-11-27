@@ -148,7 +148,7 @@ This is a paper list for Psychology-based Recommender Systems.
 
      *Tien T. Nguyen, F. Maxwell Harper, Loren, Terveen, Joseph A. Konstan*
 
-33. Emotion Classification: **GoEmotions: A Dataset of Fine-Grained Emotions** ACL, 2020. [paper](https://arxiv.org/pdf/2005.00547.pdf) [dataset](https://github.com/google-research/google-research/tree/master/goemotions)
+33. Emotion Classification: **GoEmotions: A Dataset of Fine-Grained Emotions.** ACL, 2020. [paper](https://arxiv.org/pdf/2005.00547.pdf) [dataset](https://github.com/google-research/google-research/tree/master/goemotions)
 
     *Dorottya Demszky, Dana Movshovitz-Attias, Jeongwoo Ko, Alan Cowen, Gaurav Nemade, Sujith Ravi*
 
